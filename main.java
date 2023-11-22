@@ -57,3 +57,7 @@ System.out.println("Error= " + e);
 }
 }
 }
+else {
+       continue;
+   }
+// Removed unnecessary continue statement
